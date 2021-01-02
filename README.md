@@ -2,7 +2,7 @@
 
 hydra creates two new windows everytime you close an old window. 
 
-idk, man. it basically just annoys the person running it.
+it basically just annoys the person running it.
 
 ## created by jack
 [my website](https://www.jack.ooo)
