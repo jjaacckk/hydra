@@ -1,6 +1,6 @@
 # hydra
 
-hydra creates two new windows everytime you close a old window. 
+hydra creates two new windows everytime you close an old window. 
 
 idk, man. it basically just annoys the person running it.
 
